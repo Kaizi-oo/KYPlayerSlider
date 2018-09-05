@@ -5,4 +5,4 @@
 
 ![Xib中编辑效果](https://github.com/Kaizi-oo/KYPlayerSlider/blob/master/ScreenShots/playerSlider.gif?raw=true)
 
-![模拟器效果](https://github.com/Kaizi-oo/KYPlayerSlider/blob/master/ScreenShots/playerSlider1.gif?raw=true)
+![模拟器效果](https://github.com/Kaizi-oo/KYPlayerSlider/blob/master/ScreenShots/playerSlider2.gif?raw=true)
